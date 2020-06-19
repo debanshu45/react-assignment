@@ -1,14 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, you can run:
-
-### `npm install`
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
 
 In the project i am using json server for reading the json data
 
@@ -31,7 +22,15 @@ json-server --watch db.json
 ### `json-server --watch db.json`
 
 
-json server github repository
+In the project directory, you can run:
+
+### `npm install`
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
 
 
 ### `https://github.com/typicode/json-server`
