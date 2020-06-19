@@ -25,7 +25,10 @@ switch inside a db directory and run the command
 
 ## Start JSON Server
 
-### `npm install -g json-server`
+
+json-server --watch db.json
+
+### `json-server --watch db.json`
 
 
 json server github repository
